@@ -1,4 +1,4 @@
-#LEGENDBOT
+#TREYLONBOT
 
 ## Deploy
 [![Deploy To Heroku] ## How To Host
